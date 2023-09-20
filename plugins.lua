@@ -6,6 +6,7 @@ local plugins = {
         "gopls",
         "goimports",
         "golines",
+        "emmet-ls",
       },
     },
   },
